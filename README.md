@@ -1,5 +1,5 @@
 # Arduino-tutorial
-here we learn arduino beginner to advanced
+here we learn about arduino beginner to advanced
 for more details visit my Youtube Channel
 "MTE Lab"
 or Youtube link:
